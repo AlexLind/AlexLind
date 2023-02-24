@@ -28,6 +28,10 @@ If you have any questions or want to discuss potential collaboration, feel free 
 
 ### Thanks for stopping by and I look forward to connecting with you!
 
+## 🔥 My Stats
+
+![AlexLind's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexLind&show_icons=true&theme=transparent)
+
 <!--
 **AlexLind/AlexLind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
