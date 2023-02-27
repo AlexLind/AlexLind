@@ -26,11 +26,11 @@ I'm seeking opportunities to develop innovative software projects and contribute
 ## 📫 How to Reach Me
 If you have any questions or want to discuss potential collaboration, feel free to reach out to me at alexlind1993@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/alexander-s-lind/).
 
-### Thanks for stopping by and I look forward to connecting with you!
-
 ## 🔥 My Stats
 
 ![AlexLind's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexLind&show_icons=true&theme=transparent)
+
+### Thanks for stopping by and I look forward to connecting with you!
 
 <!--
 **AlexLind/AlexLind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
