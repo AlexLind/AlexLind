@@ -17,7 +17,8 @@ I'm a software engineer based in Aarhus, Denmark, with a Master's degree in Engi
 ### I'm always learning and expanding my knowledge. Right now, I'm focusing on:
 
 - Serverless computing
-- Cloud architectures
+- Cloud architectures such as AWS and Azure.
+- Docker
 - AI/ML
 
 ## 🔍 What I'm Looking For
