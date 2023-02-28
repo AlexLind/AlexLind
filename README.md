@@ -11,6 +11,9 @@ I'm a software engineer based in Aarhus, Denmark, with a Master's degree in Engi
 
 - [Article Imager](https://github.com/AlexLind/article-imager) - Open-source app that generates copyright-free images for online articles using the OpenAI DALL-E 2 engine.
 
+## :hourglass: Projects in progress
+
+- [ALPACA - Learnovate Center](https://www.learnovatecentre.org/alpaca/) - ALPACA is a gamified, highly-visual tool to detect reading difficulties in young children. I'm currently working pro-bono on improving the data visualization of student assessment data.
 
 ## 🌱 I'm Currently Learning
 
