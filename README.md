@@ -5,7 +5,7 @@ I'm a software engineer based in Aarhus, Denmark, with a Master's degree in Engi
 ## 💻 Technologies & Tools
 - TypeScript / Python / Node.js / React / Next.js / TailwindCSS / Prisma / Express / tRPC / SQL
 
-- .NET/C# / ASP.NET
+- .NET/ C# / ASP.NET
 
 - Git / GitHub / Visual Studio Code
 
